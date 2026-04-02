@@ -32,7 +32,9 @@
 - Database Design & Management 🗃️
 - Data Analysis & Visualization 🔬
 - Workflow Automation & AI Tools ⚡
-- Financial Analysis & OLTP/OLAP Systems 💹Web Development 🖥️
+- Financial Analysis 📉
+- OLTP/OLAP Systems 💹
+- Web Development 🖥️
 - Chatbots & AI-powered Assistants 🗣️
 
 ---
